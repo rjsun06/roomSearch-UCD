@@ -3,6 +3,16 @@ Help people find temporary meeting room.
 
 replit: https://replit.com/@rjsunKA/roomsearch
 
+Three failures on UI:
+https://replit.com/@rjsunKA/roomsearchfront
+https://replit.com/@rjsunKA/roomsearch-front-2
+https://replit.com/@rjsunKA/roomsearch-front-3
+
+## Techniques
+- Mongodb Atlas: My laptop sucks so I keep code on replit and data on Atlas. My key is still on replit publicaly. Go check the data if you are interested!
+- replit: ditto.
+
+## Goal
 The primary goal of the project is to provide an efficient way to search for and utilize available classrooms throughout the campus. By scraping data from the registrar's office and storing it on MongoDB Atlas, RoomSearch offers real-time information on classroom availability.
 ## Problem Statement
 
