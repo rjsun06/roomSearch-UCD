@@ -5,7 +5,9 @@ replit: https://replit.com/@rjsunKA/roomsearch
 
 Three failures on UI:
 https://replit.com/@rjsunKA/roomsearchfront
+
 https://replit.com/@rjsunKA/roomsearch-front-2
+
 https://replit.com/@rjsunKA/roomsearch-front-3
 
 ## Techniques
