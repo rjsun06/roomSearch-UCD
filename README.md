@@ -3,7 +3,8 @@ Help people find temporary meeting room.
 
 replit: https://replit.com/@rjsunKA/roomsearch
 
-Three failures on UI:
+Some experimental(totally failures) UIs:
+
 https://replit.com/@rjsunKA/roomsearchfront
 
 https://replit.com/@rjsunKA/roomsearch-front-2
